@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Todo/static/css/main.f0d128a0.css",
+    "main.js": "/Todo/static/js/main.549c491d.js",
+    "static/media/NotoSans-Regular.ttf": "/Todo/static/media/NotoSans-Regular.dd797c0b1fb3e9b287f9.ttf",
+    "static/media/NotoSans-Bold.ttf": "/Todo/static/media/NotoSans-Bold.d6c5c03d5fce9c8441bc.ttf",
+    "index.html": "/Todo/index.html",
+    "main.f0d128a0.css.map": "/Todo/static/css/main.f0d128a0.css.map",
+    "main.549c491d.js.map": "/Todo/static/js/main.549c491d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0d128a0.css",
+    "static/js/main.549c491d.js"
+  ]
+}
